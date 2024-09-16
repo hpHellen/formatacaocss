@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-color: #201f1f; */
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/11843605-roxo-escuro-turva-e-fundo-colorido-vetor.jpg);
+    /* background-repeat: repeat-y; */
+    background-size: cover;
+    /* background-position: center; */
+    background-attachment:fixed;
+}
+
+main{
+    width: 60%;
+    margin: auto;
+    background-color: rgba(105, 50, 150, 0.164);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 70px;
+    border:#da95da 2px solid;  /*solid dotted dashed */
+    border-radius: 40px;
+}
+h1{   
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-shadow: 20px 20px 4px #c574f3;
+}
+h2{
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration:none ;
+}
+p{
+    color:#d4c5d4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight:500;
+    /* font-style:oblique;
+    font-stretch:ultra-expanded; */
+    line-height: 1.5;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+    text-align: left;
+    text-decoration:none;
+    text-transform: capitalize;
+    text-indent: 50px;    
+}
+
+main img{
+   padding-left: 30%;
+   padding-top: 30px;
+   padding-bottom: 20px;
+}
+main q{
+    padding: 10%;
+    
+}
+main q{
+    color: white;
+    text-align: center;
+    
+}
+footer p{
+    padding-top: 5%;
+    padding-bottom: 1%;
+}
+
+
